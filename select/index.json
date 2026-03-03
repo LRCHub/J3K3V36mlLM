@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "LEO",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-03T15:29:10.705450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Girls - Leo Justi Remix",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/01_Bad_Girls_-_Leo_Justi_Remix_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Girls (Leo Justi Remix)",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/02_Bad_Girls_(Leo_Justi_Remix)_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Leo",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_Leo_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Leo",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_Leo_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Leo",
+      "artist": "Magnapop",
+      "has_synced": false,
+      "path": "select/05_Leo_Magnapop.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stars Of Leo",
+      "artist": "M. Ward",
+      "has_synced": false,
+      "path": "select/06_Stars_Of_Leo_M._Ward.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I've Got Your Music - Leo Zero Remix",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/07_I've_Got_Your_Music_-_Leo_Zero_Remix_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I've Got Your Music (Leo Zero Remix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/08_I've_Got_Your_Music_(Leo_Zero_Remix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Not Made For Love [Leo Zero Remix]",
+      "artist": "Metronomy",
+      "has_synced": false,
+      "path": "select/09_Not_Made_For_Love_[Leo_Zero_Remix]_Metronomy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Not Made For Love (Leo Zero Remix)",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/10_Not_Made_For_Love_(Leo_Zero_Remix)_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Leo Szn",
+      "artist": "Cold Hart feat. YAWNS",
+      "has_synced": true,
+      "path": "select/11_Leo_Szn_Cold_Hart_feat._YAWNS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Leo Szn",
+      "artist": "Cold Hart",
+      "has_synced": true,
+      "path": "select/12_Leo_Szn_Cold_Hart.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Venus In Leo",
+      "artist": "HTRK",
+      "has_synced": true,
+      "path": "select/13_Venus_In_Leo_HTRK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LEO",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_LEO_Eve.txt"
+    }
+  ]
+}
